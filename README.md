@@ -14,5 +14,5 @@ pillow
 *   Place image input.jpg in the same directory as main.py
 *   From terminal run
 ```
-        python ./main.py  
+    python ./main.py  
 ```
